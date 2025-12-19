@@ -288,7 +288,7 @@ I'm interested in:
 
 ## 💬 Fun Facts
 ```python
-class Yash:
+class Pawan:
     def __init__(self):
         self.code = ["PHP", "Python", "JavaScript"]
         self.architecture = ["Microservices", "Event-Driven", "Serverless"]
